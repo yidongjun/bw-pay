@@ -384,14 +384,6 @@ public interface OrdersService {
 
 ```
 /**
-	 *
-	 * @Title: AlipayController.java
-	 * @Package com.sihai.controller
-	 * @Description: 前往支付宝第三方网关进行支付
-	 * Copyright: Copyright (c) 2017
-	 * Company:FURUIBOKE.SCIENCE.AND.TECHNOLOGY
-	 *
-	 * @author sihai
 	 * @date 2017年8月23日 下午8:50:43
 	 * @version V1.0
 	 */
